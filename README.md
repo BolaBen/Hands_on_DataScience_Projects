@@ -32,7 +32,7 @@ Highlight of What to expect:   Data Cleaning & Data Analysis
 
  examples
 
-#Boolean Operators
+# Boolean Operators
 
   Booleans with greater
 
@@ -44,7 +44,7 @@ Highlight of What to expect:   Data Cleaning & Data Analysis
 
   if statements and for loops
   
-#examples
+# examples
 
   find the highest crime rate
 
@@ -60,7 +60,7 @@ Highlight of What to expect:   Data Cleaning & Data Analysis
 
   The last value is ~100 people
 
-#working with la_weather.csv with steps
+# working with la_weather.csv with steps
 
   getting a single column from the data
 
@@ -80,7 +80,7 @@ Highlight of What to expect:   Data Cleaning & Data Analysis
 
   counting with dictionaries
 
-  #Functions
+# Functions
 
   introduction to functions with steps
 
