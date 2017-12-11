@@ -2,7 +2,20 @@
 Practical_Experience=Learn_by_doing
 
 Cleaning_Analysing_US_birth_data1(file)
+
 Cleaning_Analysing_US_birth_data2(file)
+
+Intro to the Dataset("births.csv")
+
+Converting Data into a list of lists
+
+Calculating Number of Births Each Month
+
+Calculating Number of Births Each Day of the Week
+
+Creating a more General Function
+
+
 
 
 U.S. births data
@@ -22,6 +35,64 @@ The raw data behind the story Some People Are Too Superstitious To Have A Baby O
 Highlight of What to expect:   Data Cleaning & Data Analysis
 
 
+
+
+# Working_with_Numpy_Library
+
+  Working with Modules in Python
+
+  Introduction to Classes and Objects with steps
+
+  Defining the Dataset class
+
+  passing additional argument to the initializer with steps
+
+  Adding additional behaviour
+
+  create instance
+
+  Enhancing the initializer with steps
+
+  Grabbing column data
+
+  Make Object Human Readable
+
+  creating Arrays
+
+  Array shape
+
+  Using Numpy
+
+  Indexing arrays
+
+  Slicing arrays
+
+  Slicing one dimension with steps
+
+  Slicing two dimension with steps
+
+  Array comparisons
+
+  Selecting Elements
+
+  Comparisons with multiple conditions with steps
+
+  Replacing values
+
+  Replacing the empty strings
+
+  Converting data types with steps
+
+  Computing with Numpy with steps
+
+
+  Examples
+
+  Total Annual Alcohol Consumption
+
+  Calculating Consumption for each Country
+
+  Finding the Country that Drinks the most      
 
 
 
