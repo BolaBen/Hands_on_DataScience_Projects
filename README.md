@@ -164,6 +164,11 @@ Highlight of What to expect:   Data Cleaning & Data Analysis
   Calling a function inside another function with steps
 
 
+# MITx: 6.00.1x edX
+
+  ** MITx 6001x_problem_sets_with_python.py **
+  ** writing_programs_with_for_loops.py **
+  ** writing_programs_with_while_loops **
 
 
 
@@ -175,4 +180,6 @@ Highlight of What to expect:   Data Cleaning & Data Analysis
 
 
 
- Courtesy....DATAQUEST.IO
+
+
+ Courtesy....MITx: 6.00.1x edX, DATAQUEST.IO
